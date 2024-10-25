@@ -1,0 +1,122 @@
+td,
+th {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.green {
+  background-color: #99ff99;
+}
+
+.blue {
+  background-color: #99ccff;
+}
+
+.submit-btn {
+  background-color: red;
+  align-items: center;
+  margin-left: 10rem;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.navigation {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.navigation a {
+  color: rgb(8, 8, 8);
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.navigation a:hover {
+  background-color: #b1f5a5;
+}
+.navigation {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.navigation a {
+  color: rgb(8, 8, 8);
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.navigation a:hover {
+  background-color: #b1f5a5;
+}
+body {
+  font-family: sans-serif;
+  background-color: #8d8b8b;
+  color: white;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  background-color: #42cc42;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.logo {
+  color: #ecf3ed;
+  margin-right: 10px;
+}
+
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  .navigation a {
+    color: rgb(8, 8, 8);
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .navigation a:hover {
+    background-color: #b1f5a5;
+  }
